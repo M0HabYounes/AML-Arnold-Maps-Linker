@@ -53,10 +53,10 @@ Automate texture map linking in Maya's Arnold Renderer with ease!
    If you already have a `userSetup.py` file in your `scripts` directory, simply add the following lines to it:
 
    ```python
-  import maya.cmds as cmds
-  from AML_Tools import AML_Menu
-
-  cmds.evalDeferred("from AML_Tools import AML_Menu; AML_Menu.run()")
+    import maya.cmds as cmds
+    from AML_Tools import AML_Menu
+  
+    cmds.evalDeferred("from AML_Tools import AML_Menu; AML_Menu.run()")
    ```
 
 ---
