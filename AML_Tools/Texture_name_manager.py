@@ -336,7 +336,7 @@ def show_texture_manager_ui():
         cmds.deleteUI("textureManagerWindow", window=True)
 
     # Create a new window
-    cmds.window("textureManagerWindow", title="AML: TextureName Manager", widthHeight=(400, 400))
+    cmds.window("textureManagerWindow", title="AML: TextureName Manager", widthHeight=(410, 350))
 
     # Create a column layout for the UI elements
     cmds.columnLayout(adjustableColumn=True)
