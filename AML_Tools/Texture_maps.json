@@ -1,0 +1,78 @@
+{
+    "Opacity": [
+        {
+            "locked": true, 
+            "name": "Opacity"
+        }
+    ], 
+    "BaseColor": [
+        {
+            "locked": true, 
+            "name": "BaseColor"
+        }, 
+        {
+            "locked": true, 
+            "name": "Albedo"
+        }, 
+        {
+            "locked": true, 
+            "name": "Diffuse"
+        }
+        
+    ], 
+    "prefer_exr": true, 
+    "udim": false, 
+    "Normal": [
+        {
+            "locked": true, 
+            "name": "Normal"
+        }, 
+        {
+            "locked": true, 
+            "name": "Bump"
+        }, 
+        {
+            "locked": false, 
+            "name": "NormalGL"
+        }, 
+        {
+            "locked": false, 
+            "name": "NormalDX"
+        }
+    ], 
+    "Metallic": [
+        {
+            "locked": true, 
+            "name": "Metallic"
+        }, 
+        {
+            "locked": true, 
+            "name": "Metalness"
+        }
+        
+    ], 
+    "Height": [
+        {
+            "locked": true, 
+            "name": "Height"
+        }, 
+        {
+            "locked": true, 
+            "name": "Displacement"
+        },
+        {
+            "locked": true, 
+            "name": "Disp"
+        }
+    ], 
+    "Roughness": [
+        {
+            "locked": true, 
+            "name": "Roughness"
+        }, 
+        {
+            "locked": false, 
+            "name": "Rough"
+        }
+    ]
+}
