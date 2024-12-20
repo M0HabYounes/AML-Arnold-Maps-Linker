@@ -48,7 +48,7 @@ Automate texture map linking in Maya's Arnold Renderer with ease!
 
 2. **Copy Files to Maya's Scripts Directory**:
 
-   - Copy the **AML/** folder and the `userSetup.py` file to your Maya `scripts` directory:
+   - Copy the **AML_Tools/** folder and the `userSetup.py` file to your Maya `scripts` directory:
      - **Windows**: `Documents\maya\<version>\scripts`
      - **Mac**: `~/Library/Preferences/Autodesk/maya/<version>/scripts`
      - **Linux**: `~/maya/<version>/scripts`
