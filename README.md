@@ -36,7 +36,7 @@ Automate texture map linking in Maya's Arnold Renderer with ease!
 1. **Download or Clone the Repository**:
 
    ```bash
-   git clone https://github.com/M0HabYounes/AML.git
+   git clone https://github.com/M0HabYounes/AML-Arnold-Maps-Linker
    ```
 
 2. **Copy Files to Maya's Scripts Directory**:
