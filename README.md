@@ -8,12 +8,14 @@ Automate texture map linking in Maya's Arnold Renderer with ease!
 ## Features
 
 - **Automatic Texture Linking**: Select a **BaseColor map**, and AML links all related textures automatically.
+  
 - **Name Manager with UI**: Add, edit, or manage naming conventions directly through an intuitive user interface. No need to manually edit JSON files.
   - **Features of the TextureName Manager UI**:
     - Add Texture Name
     - Delete Texture Name
     - Toggle "Prefer EXR" for displacement maps
     - Enable or disable UDIM workflow support
+      
 - **Supported Texture Maps**: Automatically links the following texture maps:
   - BaseColor
   - Roughness
@@ -21,12 +23,17 @@ Automate texture map linking in Maya's Arnold Renderer with ease!
   - Metallic
   - Height
   - Opacity
+    
 - **Adjustment Nodes**:
   - Adds `aiColorCorrect` for BaseColor maps.
   - Adds `aiRange` for Roughness and Metallic maps for better control.
+    
 - **LOD Selection**: Automatically selects `LOD0` if texture maps have level-of-detail iterations.
+  
 - **UDIM Workflow Support**: Designed to handle high-resolution texture setups effortlessly.
+  
 - **Python Compatibility**: Works with Python **2.7 and above**, making it compatible with Maya **2017 and newer**.
+  
 - **Open Source**: Free to use, modify, and extend.
 
 ---
